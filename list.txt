@@ -8,3 +8,5 @@ basic rest api
 Feign Client
       https://codesandbox.io/s/skeleton-feignclient-w7m0gb
       https://codesandbox.io/s/sprintfeignsampleapplication-n8hfy6
+All
+https://codesandbox.io/s/skeleton-all-dcv9jp
